@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-assert-is-booleanarray",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Test if a value is a BooleanArray.",
   "license": "Apache-2.0",
   "author": {
@@ -40,7 +40,7 @@
     "@stdlib/types": "^0.3.2"
   },
   "devDependencies": {
-    "@stdlib/array-bool": "github:stdlib-js/array-bool#main",
+    "@stdlib/array-bool": "^0.0.1",
     "@stdlib/array-complex128": "^0.2.1",
     "@stdlib/array-complex64": "^0.2.1",
     "@stdlib/array-float32": "^0.2.1",
