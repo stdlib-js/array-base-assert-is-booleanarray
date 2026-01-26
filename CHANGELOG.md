@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-01-26)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`7fbc3d9`](https://github.com/stdlib-js/stdlib/commit/7fbc3d91696d37d3f3f37377d14bd8e5e4d22358) - **bench:** use string interpolation in benchmark descriptions [(#9601)](https://github.com/stdlib-js/stdlib/pull/9601) _(by KovidhRaj)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   KovidhRaj
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.0.2">
 
 ## 0.0.2 (2024-07-29)
